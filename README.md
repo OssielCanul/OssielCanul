@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OssielCanul&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OssielCanul&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![profile](https://user-images.githubusercontent.com/48295377/157159276-d5aeac66-7664-4e37-a38d-0ba3b52714a8.gif)
